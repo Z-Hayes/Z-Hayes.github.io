@@ -6,3 +6,4 @@ function setBackground() {
     document.body.style.backgroundColor = "#e5d7d7";
     document.body.style.backgroundImage = "url('images/background.png')";
 }
+setBackground();
